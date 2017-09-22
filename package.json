@@ -1,0 +1,17 @@
+{
+  "name": "MessageRESTService",
+  "description": "Small service for message saving",
+  "version": "0.0.1",
+  "author": "Matthäus Schmedding <ms@7pkonzepte.de>",
+  "license": "MIT",
+  "homepage": "http://7pkonzepte.de/",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "express-json": "^1.0.0",
+    "mysql": "^2.14.1"
+  },
+  "scripts": {}
+}
